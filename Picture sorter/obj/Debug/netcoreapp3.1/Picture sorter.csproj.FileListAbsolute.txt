@@ -1,0 +1,35 @@
+C:\Users\John\source\repos\Picture sorter\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.exe
+C:\Users\John\source\repos\Picture sorter\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.deps.json
+C:\Users\John\source\repos\Picture sorter\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.runtimeconfig.json
+C:\Users\John\source\repos\Picture sorter\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.runtimeconfig.dev.json
+C:\Users\John\source\repos\Picture sorter\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.dll
+C:\Users\John\source\repos\Picture sorter\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.pdb
+C:\Users\John\source\repos\Picture sorter\Picture sorter\bin\Debug\netcoreapp3.1\ExifLib.Standard.dll
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.csprojAssemblyReference.cache
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture_sorter.Form1.resources
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.csproj.GenerateResource.cache
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.AssemblyInfo.cs
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.csproj.CopyComplete
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.dll
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.pdb
+C:\Users\John\source\repos\Picture sorter\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.genruntimeconfig.cache
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.exe
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.deps.json
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.runtimeconfig.json
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.runtimeconfig.dev.json
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.dll
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\bin\Debug\netcoreapp3.1\Picture sorter.pdb
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\bin\Debug\netcoreapp3.1\ExifLib.Standard.dll
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.csproj.AssemblyReference.cache
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture_sorter.Form1.resources
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.csproj.GenerateResource.cache
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.GeneratedMSBuildEditorConfig.editorconfig
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.AssemblyInfoInputs.cache
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.AssemblyInfo.cs
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.csproj.CoreCompileInputs.cache
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.csproj.CopyComplete
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.dll
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.pdb
+M:\JoNo\Pics\Picture sorter source code\Picture sorter\obj\Debug\netcoreapp3.1\Picture sorter.genruntimeconfig.cache

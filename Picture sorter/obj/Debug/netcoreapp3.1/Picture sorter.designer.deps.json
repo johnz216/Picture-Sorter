@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExifLib.Standard/1.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/ExifLib.Standard.dll": {
+            "assemblyVersion": "1.7.0.0",
+            "fileVersion": "1.7.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExifLib.Standard/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTE7zxuHj9BteOiNNT/zAa4/ruo3uPYx6t/mzZfVbV5NP8m9/tqQ7TzHvNQOsRxVeMgHlsJSwC09M+9YhkAQTw==",
+      "path": "exiflib.standard/1.7.0",
+      "hashPath": "exiflib.standard.1.7.0.nupkg.sha512"
+    }
+  }
+}

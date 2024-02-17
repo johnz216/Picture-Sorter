@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vm/xfBpndr/wWnLXwt84xmM3pglXk+PMeUIfLjtRt4ax9a+eFboAXYEabV0IKXsR9RcfLhbgSEVwxQ/TlI0GGw==",
+  "success": true,
+  "projectFilePath": "M:\\JoNo\\Code\\Picture sorter\\Picture-Sorter\\Picture sorter\\Picture sorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\exiflib.standard\\1.7.0\\exiflib.standard.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

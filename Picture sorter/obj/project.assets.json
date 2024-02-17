@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExifLib.Standard/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ExifLib.Standard.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ExifLib.Standard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExifLib.Standard/1.7.0": {
+      "sha512": "rTE7zxuHj9BteOiNNT/zAa4/ruo3uPYx6t/mzZfVbV5NP8m9/tqQ7TzHvNQOsRxVeMgHlsJSwC09M+9YhkAQTw==",
+      "type": "package",
+      "path": "exiflib.standard/1.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "exiflib.standard.1.7.0.nupkg.sha512",
+        "exiflib.standard.nuspec",
+        "lib/netstandard2.0/ExifLib.Standard.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ExifLib.Standard >= 1.7.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\John\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "M:\\JoNo\\Code\\Picture sorter\\Picture-Sorter\\Picture sorter\\Picture sorter.csproj",
+      "projectName": "Picture sorter",
+      "projectPath": "M:\\JoNo\\Code\\Picture sorter\\Picture-Sorter\\Picture sorter\\Picture sorter.csproj",
+      "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+      "outputPath": "M:\\JoNo\\Code\\Picture sorter\\Picture-Sorter\\Picture sorter\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "ExifLib.Standard": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
